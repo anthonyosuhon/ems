@@ -1,0 +1,1 @@
+web gunicorn myproj30.wsgi:application --log-file -
